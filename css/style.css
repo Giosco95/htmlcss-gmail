@@ -1,0 +1,57 @@
+
+body {
+
+  background-color: lightblue;
+  background-image: url("http://www.technocrazed.com/wp-content/uploads/2015/12/Wood-Wallpaper-Background-22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+  margin:auto;
+}
+
+
+.gioscomail {
+text-decoration: underline;
+font-family: cursive;
+font-size: 30px;
+color: white;
+
+}
+
+.unread {
+color: white;
+
+}
+
+.maillogo {
+
+  height: 150px;
+  line-height: 150px;
+  vertical-align: middle;
+  border-radius: 50%;
+}
+
+.lista {
+
+  background-color: white;
+}
+
+
+
+.mailbox {
+
+  border: groove;
+
+}
+
+.trenta {
+
+  border: solid;
+  border-color: yellow;
+  border-radius: 30%;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
